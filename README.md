@@ -38,11 +38,13 @@ Solved LeetCode problems
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
