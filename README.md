@@ -28,9 +28,19 @@ Solved LeetCode problems
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
