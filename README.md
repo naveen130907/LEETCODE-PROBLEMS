@@ -24,6 +24,7 @@ Solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -34,11 +35,13 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
