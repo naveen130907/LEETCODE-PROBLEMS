@@ -37,6 +37,7 @@ Solved LeetCode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
@@ -44,6 +45,7 @@ Solved LeetCode problems
 | ------- |
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
