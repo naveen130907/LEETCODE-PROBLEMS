@@ -7,6 +7,7 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 ## Backtracking
@@ -78,4 +79,8 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
