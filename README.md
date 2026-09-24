@@ -11,6 +11,7 @@ Solved LeetCode problems
 | [0228-summary-ranges](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [1389-create-target-array-in-the-given-order](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
