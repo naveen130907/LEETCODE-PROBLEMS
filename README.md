@@ -10,6 +10,7 @@ Solved LeetCode problems
 | [0118-pascals-triangle](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
@@ -88,4 +89,12 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
