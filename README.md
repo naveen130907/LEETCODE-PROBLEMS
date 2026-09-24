@@ -13,6 +13,7 @@ Solved LeetCode problems
 | [1389-create-target-array-in-the-given-order](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1920-build-array-from-permutation](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
@@ -103,4 +104,5 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
