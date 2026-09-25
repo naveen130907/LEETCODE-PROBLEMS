@@ -8,6 +8,7 @@ Solved LeetCode problems
 | ------- |
 | [0078-subsets](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [1389-create-target-array-in-the-given-order](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
@@ -30,6 +31,7 @@ Solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -53,6 +55,7 @@ Solved LeetCode problems
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/naveen130907/LEETCODE-PROBLEMS/tree/master/0771-jewels-and-stones) |
